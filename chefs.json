@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/3f9Z3c3/cheaf-1.jpg",
+        "name": "John Smith",
+        "years_of_experience": 10,
+        "num_of_recipes": 100,
+        "likes": 5000
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/G2DZ3cq/chef-2.jpg",
+        "name": "Emily Chang",
+        "years_of_experience": 8,
+        "num_of_recipes": 75,
+        "likes": 4000
+    },
+    {
+        "id": 3,
+        "picture": "https://i.ibb.co/GvkP8j2/chef-3.jpg",
+        "name": "David Kim",
+        "years_of_experience": 15,
+        "num_of_recipes": 200,
+        "likes": 10000
+    },
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/dbHNwM9/chef-4.jpg",
+        "name": "Karen Lee",
+        "years_of_experience": 5,
+        "num_of_recipes": 50,
+        "likes": 3000
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/fqP6RJ7/chef-5.jpg",
+        "name": "Michael Nguyen",
+        "years_of_experience": 12,
+        "num_of_recipes": 150,
+        "likes": 8000
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/PZndMTw/chef-6.jpg",
+        "name": "Sophia Patel",
+        "years_of_experience": 7,
+        "num_of_recipes": 80,
+        "likes": 5000
+    }
+]
