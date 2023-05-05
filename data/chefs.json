@@ -2,49 +2,535 @@
     {
         "id": 1,
         "picture": "https://i.ibb.co/3f9Z3c3/cheaf-1.jpg",
-        "name": "John Smith",
+        "name": "Sanjeev Kapoor",
+        "bio": "Sanjeev Kapoor is a celebrated Indian chef, entrepreneur, and television personality. He is the author of numerous cookbooks and the host of the popular television show, Khana Khazana. Kapoor has also opened several restaurants around the world, including in Dubai and Canada.",
         "years_of_experience": 10,
         "num_of_recipes": 100,
-        "likes": 5000
+        "likes": 5000,
+        "recipies": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            }
+        ]
     },
     {
         "id": 2,
         "picture": "https://i.ibb.co/C6Rdpjb/chef-2.jpg",
-        "name": "Emily Chang",
+        "name": "Vikas Khanna",
+        "bio": "Vikas Khanna is a Michelin-starred Indian chef, restaurateur, and cookbook author. He has worked at some of the world's top restaurants, including The Benares Restaurant in New York. Khanna is also known for his philanthropic work and has started several initiatives to fight hunger in India.",
         "years_of_experience": 8,
         "num_of_recipes": 75,
-        "likes": 4000
+        "likes": 4000,
+        "recipies": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            }
+        ]
     },
     {
         "id": 3,
         "picture": "https://i.ibb.co/GvkP8j2/chef-3.jpg",
-        "name": "David Kim",
+        "name": "Jaffrey",
+        "bio": "Jaffrey is an Indian-born actress, food and travel writer, and television personality. She has written over 15 cookbooks and has won several awards for her contributions to Indian cuisine. Jaffrey is also an advocate for healthy eating and has published a number of books on the subject.",
         "years_of_experience": 15,
         "num_of_recipes": 200,
-        "likes": 10000
+        "likes": 10000,
+        "recipies": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            }
+        ]
     },
     {
         "id": 4,
         "picture": "https://i.ibb.co/dbHNwM9/chef-4.jpg",
-        "name": "Karen Lee",
+        "name": "Ranveer Brar",
+        "bio": "Ranveer Brar is an Indian celebrity chef, television personality, and restaurateur. He has worked in some of the top kitchens in the world, including The Kitchens of The Ritz Carlton in Boston. Brar is also the author of several cookbooks and has hosted a number of television shows.",
         "years_of_experience": 5,
         "num_of_recipes": 50,
-        "likes": 3000
+        "likes": 3000,
+        "recipies": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            }
+        ]
     },
     {
         "id": 5,
         "picture": "https://i.ibb.co/fqP6RJ7/chef-5.jpg",
-        "name": "Michael Nguyen",
+        "name": "Tarla Dalal",
+        "bio": "Tarla Dalal was a celebrated Indian chef, cookbook author, and television personality. She wrote over 100 cookbooks and hosted several television shows, including Tarla Dalal's Kitchen. Dalal was also known for her philanthropic work and was a supporter of various charities.",
         "years_of_experience": 12,
         "num_of_recipes": 150,
-        "likes": 8000
+        "likes": 8000,
+        "recipies": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            }
+        ]
     },
     {
         "id": 6,
         "picture": "https://i.ibb.co/PZndMTw/chef-6.jpg",
-        "name": "Sophia Patel",
+        "name": "Zorawar Kalra ",
+        "bio": "Zorawar Kalra is an Indian restaurateur, entrepreneur, and television personality. He is the founder and managing director of Massive Restaurants, which operates several successful restaurant brands across India and the world. Kalra has also been a judge on the television show, MasterChef India.",
         "years_of_experience": 7,
         "num_of_recipes": 80,
-        "likes": 5000
+        "likes": 5000,
+        "recipies": [
+            {
+                "recipe_name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Chicken Masala",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            },
+            {
+                "recipe_name": "Palak Paneer",
+                "ingredients": [
+                    "Boneless chicken",
+                    "Yogurt",
+                    "Ginger-garlic paste",
+                    "Garam masala powder",
+                    "Red chili powder",
+                    "Coriander powder",
+                    "Cumin powder",
+                    "Tomatoes",
+                    "Heavy cream",
+                    "Kasuri methi (dried fenugreek leaves)",
+                    "Salt",
+                    "Oil"
+                ],
+                "cooking": [
+                    "Marinate chicken with yogurt, ginger-garlic paste, garam masala, red chili powder, coriander powder, cumin powder, and salt.",
+                    "Grill or bake chicken until cooked.",
+                    "In a separate pan, heat oil and sauté chopped tomatoes until they soften.",
+                    "Add the cooked chicken to the tomato mixture and stir in heavy cream and kasuri methi.",
+                    "Simmer for a few minutes until the sauce thickens and the flavors meld.",
+                    "Serve hot with rice or naan."
+                ],
+                "rating": 4.8
+            }
+        ]
     }
 ]

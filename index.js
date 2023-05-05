@@ -13,6 +13,12 @@ app.get('/allData', (req, res) => {
     res.send(allChefs)
 })
 
+app.get('/allData/:id', (req, res) => {
+    const id = req.params.id;
+    const item = allChefs.find(pd => pd.id == id);
+    res.send(item);
+})
+
 app.listen(port, () => {
     console.log(`server is running on port: ${port}`);
 })
